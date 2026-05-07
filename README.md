@@ -1,4 +1,4 @@
-# Restaurant Management System (Phần mềm Quản lý Nhà hàng)
+# Restaurant Management System
 
 > Đồ án môn **Công nghệ .NET**. 
 
