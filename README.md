@@ -31,3 +31,10 @@
 * **Thực đơn thông minh:** Danh mục món ăn được phân loại rõ ràng, hỗ trợ tìm kiếm nhanh và hiển thị hình ảnh minh họa sinh động.
 * **Xử lý đơn hàng & Thanh toán:** Tự động tính toán hóa đơn, áp dụng giảm giá và xuất hóa đơn chuyên nghiệp.
 * **Giao diện hiện đại:** Sử dụng bộ thư viện Guna.UI2 để tạo ra một ứng dụng Desktop có "vibe" hiện đại như các ứng dụng web/mobile ngày nay.
+
+## 🚀 Hướng dẫn cài đặt
+
+Clone repository:
+   ```bash
+   git clone [https://github.com/NThien315/restaurant_management_dotNet.git]
+   ```
