@@ -10,7 +10,7 @@
 <img width="797" height="449" alt="image" src="https://github.com/user-attachments/assets/d5b2ac9e-0f06-4521-b891-bf3bd13c2aa2" />
 
 > Quản lý thực đơn
-![Uploading image.png…]()
+<img width="798" height="448" alt="image" src="https://github.com/user-attachments/assets/81bbc57b-1cdf-4a85-9917-28aec554dfb5" />
 
 ## 🛠️ Công nghệ sử dụng (Tech Stack)
 
