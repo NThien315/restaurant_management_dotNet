@@ -15,8 +15,9 @@
 ### 🎨 Frontend & GUI (Trọng tâm)
 * **Framework:** Windows Forms (WinForms).
 * **UI Library:** `Guna.UI2` – Sử dụng để thiết kế các controls hiện đại, bo góc, hiệu ứng hover và hệ thống màu sắc đồng bộ.
-* **Tư duy thiết kế:** * Xây dựng sơ đồ tầng và bàn ăn bằng các Panel/Button động.
-    * Tối ưu hóa layout giúp nhân viên thao tác nhanh trên màn hình cảm ứng hoặc chuột.
+* **Tư duy thiết kế:**
+   * Xây dựng sơ đồ tầng và bàn ăn bằng các Panel/Button động.
+   * Tối ưu hóa layout giúp nhân viên thao tác nhanh trên màn hình cảm ứng hoặc chuột.
 
 ### ⚙️ Backend & Database
 * **Ngôn ngữ:** C# (.NET Framework).
