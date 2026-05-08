@@ -1,7 +1,5 @@
 # Restaurant Management System
 
-> Đồ án môn **Công nghệ .NET**. 
-
 Ứng dụng được xây dựng trên nền tảng **Windows Forms**, tập trung vào việc tối ưu hóa trải nghiệm người dùng (UX) thông qua giao diện đồ họa hiện đại và quy trình quản lý bàn ăn trực quan.
 
 ## 📸 Giao diện ứng dụng (Screenshots)
